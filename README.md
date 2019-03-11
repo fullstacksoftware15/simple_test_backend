@@ -1,7 +1,5 @@
-# simple_test
+# simple_test_backend
 A simple NodeJS backend, that will use MongoDB and Facebook Marketing API.
-
-Live demo [here](https://vutachat.herokuapp.com/)
 
 ## Getting Started
 
